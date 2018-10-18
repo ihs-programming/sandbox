@@ -2,10 +2,10 @@
 public class main {
 
 	public static void main(String[] args) {
-		System.out.print("Hello World");
 		/*
 		 * merge conflict
 		 */
+		System.out.println("whats up drama alert nation im ur host killer keem star lets get right into the news");
 	}
 
 }
